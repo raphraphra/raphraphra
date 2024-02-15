@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello kind traveller 👾
 
-<!--
-**raphraphra/raphraphra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I ? 🎀
 
-Here are some ideas to get you started:
+# Engineering student learning how to code. I'm trying out many things and deepen my knowledge each day. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 🦀
+
+### Web development (HTML, CSS, React, Kotlin, Javascript) 🤖
+
+### Machine learning and data analysis (Python modules like numpy, matplotlib, scipy, seaborn) 🐌
+
+### Game development (Godot4) 🍓
+
+## Other interests? 
+
+### Writing
+### Reading
+### Drawing
+### Running
+
+
+
+
+
+
+
