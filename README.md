@@ -1,4 +1,4 @@
-# Hello kind traveller 👾
+# Hey. 👾
 
 ## Who am I ? 🎀
 
@@ -14,13 +14,17 @@ Game development (Godot4) 🍓
 
 ## Other interests? 
 
-  ### Writing
+  ### Writing 
+  (short stories or articles)
 
-  ### Reading
+  ### Reading 
+  (all genres)
 
   ### Drawing
+  To do book covers :/
 
   ### Running
+  When I have time.
 
 
 
